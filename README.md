@@ -21,7 +21,7 @@ De esta manera, el proyecto busca explorar una alternativa de valorización de r
 
 
 
-## 3. Estado del proyecto
+## 2. Estado del proyecto
 
 **Lección 1:** Infraestructura configurada e idea inicial planteada.
 
