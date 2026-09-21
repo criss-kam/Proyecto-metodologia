@@ -19,74 +19,11 @@ De esta manera, el proyecto busca explorar una alternativa de valorización de r
 
 ---
 
-## 2. Problema
 
-Por definir durante el desarrollo de la metodología.
 
----
-
-## 3. Pregunta de investigación
-
-Por definir.
-
----
-
-## 4. Objetivo general
-
-Por definir.
-
----
-
-## 5. Objetivos específicos
-
-Por definir.
-
----
-
-## 6. Metodología
-
-Por definir durante el desarrollo del proyecto.
-
----
-
-## 7. Aplicación agronómica
-
-Por definir.
-
----
-
-## 8. Aplicación ambiental
-
-Por definir.
-
----
-
-## 9. Datos y resultados
-
-Esta sección será actualizada a medida que se obtengan los datos y resultados del proyecto.
-
----
-
-## 10. Referencias
-
-Las fuentes bibliográficas utilizadas durante el desarrollo del proyecto serán incorporadas en esta sección.
-
----
-
-## 11. Estado del proyecto
+## 3. Estado del proyecto
 
 **Lección 1:** Infraestructura configurada e idea inicial planteada.
 
 **Estado actual:** Idea en proceso de refinamiento.
 
----
-
-## 12. Próximos pasos
-
-- Refinar la pregunta de investigación.
-- Definir los objetivos.
-- Establecer las variables de estudio.
-- Definir las condiciones de pirólisis.
-- Establecer la metodología experimental.
-- Identificar las características que serán evaluadas en el biochar.
-- Incorporar fuentes científicas y bibliográficas.
