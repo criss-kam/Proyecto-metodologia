@@ -1,0 +1,7 @@
+Este archivo estará destinado al almacenamiento y organización de los datos obtenidos durante el desarrollo del proyecto de investigación sobre la producción de biochar a partir de cáscara de papa de producción boyacense.
+
+Los datos podrán incluir información relacionada con la materia prima utilizada, las condiciones del proceso de pirólisis y las características del biochar obtenido.
+
+Posteriormente, en esta carpeta se podrán incorporar los datos crudos obtenidos experimentalmente y los datos procesados utilizados para el análisis de los resultados.
+
+Actualmente, el proyecto se encuentra en la etapa inicial de formulación de la idea de investigación.
